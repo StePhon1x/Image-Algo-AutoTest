@@ -1,0 +1,19 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+python_env/
+*.log
+
+# CMake 编译构建目录
+build/
+
+# 测试运行输出（时间戳文件夹）
+run_*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
